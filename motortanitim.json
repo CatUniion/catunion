@@ -1,0 +1,92 @@
+[
+  {
+    "isim": "Yamaha MT-07",
+    "tur": "Naked",
+    "kalori": "Agresif görünüm ve şehir içi kullanımda maksimum keyif",
+    "karbonhidrat": "Hafif yapı, tork dolu motor",
+    "protein": "İleri seviye sürücüler için eğlenceli naked deneyimi",
+    "yag": "Yamaha'nın orta sınıf yıldızı",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/Yamahamt07.png?raw=true"
+  },
+  {
+    "isim": "Kawasaki Ninja ZX-6R",
+    "tur": "Sport",
+    "kalori": "Orta seviye pist ve yol performans motosikleti",
+    "karbonhidrat": "Agresif tasarım, yüksek devir çevirme",
+    "protein": "Supersport segmentinde denge arayanlar için",
+    "yag": "Kawasaki'nin Ninja serisinden efsane model",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/zx6r.pngraw=true"
+  },
+  {
+    "isim": "Honda Gold Wing",
+    "tur": "Touring",
+    "kalori": "Uzun yolculuklarda lüksün ve rahatlığın zirvesi",
+    "karbonhidrat": "Ses sistemi, bagaj hacmi ve sürüş teknolojileriyle donatılmış",
+    "protein": "Maksimum konfor ve denge",
+    "yag": "Honda’nın amiral gemisi touring modeli",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/Hondagoldwing.png?raw=true"
+  },
+  {
+    "isim": "BMW R 1250 GS",
+    "tur": "Adventure",
+    "kalori": "Dünyayı gezmek isteyen motosikletçilerin ilk tercihi",
+    "karbonhidrat": "Arazi ve asfalt uyumu, elektronik destekler",
+    "protein": "Uzun yol ve zorlu arazilerde güçlü performans",
+    "yag": "Adventure sınıfının ikonik modeli",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/bmwr1250gs.png?raw=true"
+  },
+  {
+    "isim": "KTM 690 Enduro R",
+    "tur": "Dual Sport",
+    "kalori": "Hem şehir içinde hem doğada kullanılabilecek hafif arazi canavarı",
+    "karbonhidrat": "Yüksek yerden yükseklik, dayanıklı süspansiyon",
+    "protein": "Hafiflik ve güç dengesiyle çok yönlü kullanım",
+    "yag": "KTM'nin saf Enduro ruhu",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/ktm690.png.png?raw=true"
+  },
+  {
+    "isim": "Piaggio MP3 500",
+    "tur": "Scooter",
+    "kalori": "Üç tekerlekli yapısıyla şehir içi güvenli ve konforlu ulaşım",
+    "karbonhidrat": "Yüksek denge, geniş sele ve depolama alanı",
+    "protein": "Güçlü motoru sayesinde otobanlara da uygun",
+    "yag": "Günlük yaşam için pratik çözüm",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/mp3500.png.png?raw=true"
+  },
+  {
+    "isim": "Harley-Davidson Street Glide",
+    "tur": "Cruiser",
+    "kalori": "Alçak oturuş, geniş gidon, uzun yol rüyası",
+    "karbonhidrat": "Klasik cruiser hissi, modern teknolojiyle birleşiyor",
+    "protein": "V-Twin motorun tork dolu hissi",
+    "yag": "Harley ruhunu yolda hisset",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/harleystreet.png?raw=true"
+  },
+  {
+    "isim": "Zero SR/F",
+    "tur": "Electric",
+    "kalori": "Elektrikli motosikletlerin sportif yüzü",
+    "karbonhidrat": "Anlık tork, sıfır emisyon, sessiz sürüş",
+    "protein": "Elektrikli geleceğin güçlü temsilcisi",
+    "yag": "Zero Motorcycles'ın performans canavarı",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/ZeroSRF.png?raw=true"
+  },
+  {
+    "isim": "Ducati Panigale V4 R",
+    "tur": "Superbike / Racing",
+    "kalori": "Pistten çıkan yarış teknolojisi",
+    "karbonhidrat": "Yüksek devir, karbon fiber detaylar, aerodinami",
+    "protein": "Ducati’nin MotoGP’den ilham alan mükemmeliği",
+    "yag": "İtalyan yarış ruhunun vücut bulmuş hali",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/ducativ4R.png?raw=true"
+  },
+  {
+    "isim": "Royal Enfield Classic 350",
+    "tur": "Retro / Heritage",
+    "kalori": "Tarihi tasarım ve günümüz teknolojisi",
+    "karbonhidrat": "Yumuşak sürüş, klasik gösterge paneli",
+    "protein": "Kültleşmiş tasarımıyla vintage hissi",
+    "yag": "Köklü geçmişin izlerini süren motosiklet",
+    "gorsel": "https://github.com/CatUniion/catunion/blob/main/RoyalEnfield350.png?raw=true"
+  }
+]
